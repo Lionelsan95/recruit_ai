@@ -6,3 +6,7 @@ To launch the application, you should:
     - OPENAI_API_KEY
     - PROXYCURL_LINKEDIN_API_URL
     - PROXYCURL_API_KEY
+    - TAVILY_API_KEY
+
+proxycurl : https://nubela.co/proxycurl/
+tavily api : https://tavily.com/
